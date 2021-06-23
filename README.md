@@ -1,5 +1,7 @@
 # 15 Puzzle
 
+https://15-puzzle-app.netlify.app/
+
 15 puzzle is a sliding puzzle with 16 squares in total, leaving one square unoccupied. 
 The goal of this project is to build a UI where the user is allowed to move the squares.
 
